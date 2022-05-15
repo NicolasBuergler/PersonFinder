@@ -1,0 +1,7 @@
+{
+  "name": "person-finder-pwa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
